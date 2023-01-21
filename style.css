@@ -1,0 +1,18 @@
+#table1{
+    background-color: black;
+}
+body{
+    background-color: aqua;
+}
+.bt{
+    background-color: red;
+    font-size: 25px;
+    color: yellow;
+    padding: 15px 30px;
+}
+.bt1{
+    background-color: black;
+    font-size: 20px;
+    color: yellow;
+    padding: 15px 30px;
+}
