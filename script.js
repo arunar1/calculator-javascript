@@ -2,9 +2,9 @@ function ac()
 {
     document.getElementById("res").value="";
 }
-function show(input)
+function show(input1)
 {
-    document.getElementById("res").value+=input; 
+    document.getElementById("res").value+=input1; 
 }
 function cal()
 {
